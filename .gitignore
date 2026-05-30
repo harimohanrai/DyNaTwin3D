@@ -1,0 +1,37 @@
+﻿# Python/cache
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Environments
+venv/
+.venv/
+venv_3d/
+
+# Logs and outputs
+logs/
+outputs/
+eval_outputs/
+final_report/
+postprocess_figures/
+publication_figures/
+
+# Models/data/results
+*.keras
+*.h5
+*.npy
+*.npz
+*.nii
+*.nii.gz
+*.csv
+*.xlsx
+
+# Figures/manuscripts/archives
+*.png
+*.jpg
+*.jpeg
+*.tif
+*.tiff
+*.pdf
+*.docx
+*.zip
